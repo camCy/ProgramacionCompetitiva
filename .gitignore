@@ -1,0 +1,4 @@
+*.exe
+*.txt
+!T.txt
+!Template.txt
